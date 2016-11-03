@@ -2,9 +2,9 @@ def simple(myString):
 
  x = raw_input(myString)
  if(x == "1"):
-	print("ok")
+  print("ok")
  else:
-	print("wrong")
+  print("wrong")
 
 #simple("specify input")
 
